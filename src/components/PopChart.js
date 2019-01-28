@@ -221,7 +221,7 @@ class PopChart extends Component {
           width: 2
         },
         title: {
-          text: "Super Bowl XIII Odds",
+          text: "Super Bowl LIII Odds",
           align: "center",
           margin: 20,
           offsetY: 20,
