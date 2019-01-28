@@ -36,7 +36,8 @@ const patsOdds = [
   610,
   570,
   340,
-  -130
+  -130,
+  -145
 ];
 
 const ramsOdds = [
@@ -74,7 +75,8 @@ const ramsOdds = [
   480,
   430,
   340,
-  110
+  110,
+  125
 ];
 
 const categories = [
@@ -112,7 +114,8 @@ const categories = [
   "Dec 31 2018",
   "Jan 7 2019",
   "Jan 14 2019",
-  "Jan 20 2019"
+  "Jan 20 2019",
+  "Jan 27 2019"
 
   // "Los Angeles Chargers",
   // "Los Angeles Rams",
