@@ -1,12 +1,13 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
 }
 
 .container {
   margin: 24px auto;
   overflow: hidden;
   width: 90%;
-  height: 90%;
+  height: 80vh;
   text-align: center;
 }
 
