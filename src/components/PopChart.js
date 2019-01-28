@@ -194,6 +194,15 @@ class PopChart extends Component {
         yaxis: {
           title: {
             text: "American Odds (+)"
+          },
+          labels: {
+            formatter: function(val, index) {
+              if (val > 0) {
+                return "+" + val;
+              } else {
+                return val;
+              }
+            }
           }
         },
         dataLabels: {
