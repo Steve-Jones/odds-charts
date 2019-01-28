@@ -255,7 +255,7 @@ class PopChart extends Component {
           options={this.state.options}
           series={this.state.series}
           type="line"
-          height="800px"
+          height="auto"
           width="100%"
         />
         {/* <button onClick={this.onClick}>Change</button> */}
